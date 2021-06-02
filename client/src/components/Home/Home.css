@@ -1,0 +1,21 @@
+.mid-content{
+    position: relative !important;
+    text-align: center;
+    color: silver;
+}
+
+
+.top-left {
+    position: absolute !important;
+    top: 30vh;
+  left: 4vw;
+
+  }
+
+  
+.top-center {
+    position: absolute !important;
+    top: 0;
+  left: 40vw;
+
+  }

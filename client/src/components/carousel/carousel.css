@@ -1,0 +1,7 @@
+.carImg{
+    width: 60%;
+    height: 60%;
+    overflow: hidden;
+    position: relative;
+    margin-left : 20%;
+}
